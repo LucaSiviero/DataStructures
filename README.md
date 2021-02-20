@@ -6,5 +6,4 @@ Implementation of:
 
 -HashTables in C;
 
--Graphs in C;
 
